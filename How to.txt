@@ -1,0 +1,6 @@
+-- Implementation of Bug 2 Algorithm --
+
+1. Open command prompt and go to the directory containing the bug2.py file (.../Bug2/package/)
+2. run the bug2.py (python bug2.py)
+
+Then provide input as required.
